@@ -16,7 +16,7 @@ Hello, I'm yuna. I'm learning this and that.
 
 ## 📜 Certificates
 - 💻 **Craftsman Information Processing (정보처리기능사)**
-- 💡 **Craftman Electronics (전자기능사)**
+- 💡 **Craftsman Electronics (전자기능사)**
 - ⚡ **Craftsman Electricity (전기기능사)**
 
 ---
